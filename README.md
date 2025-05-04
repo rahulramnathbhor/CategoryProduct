@@ -64,8 +64,8 @@ Body (raw JSON):
 }
 
  Technologies Used
-Spring Boot 
+(Spring Boot 
 Java 17
 MySQL Database
 Maven
-Hibernate/JPA
+Hibernate/JPA)
