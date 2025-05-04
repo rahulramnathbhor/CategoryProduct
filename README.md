@@ -3,8 +3,6 @@
   In this project showing one to many relation between category and product.
   1. Category Endpoints
 
-
-POST http://localhost:8080/api/categories
 Headers:
 - Content-Type: application/json
 
